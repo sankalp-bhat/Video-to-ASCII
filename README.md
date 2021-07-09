@@ -1,6 +1,6 @@
 # Video-to-ASCII
 
-Follow the instructions given below to view a video of your choice in ASCII format! (Currently works only on Windows)
+Follow the instructions given below to view a video of your choice in ASCII format!
 
 1. Open the current directory in Command Prompt and add a video of your choice.
 2. Execute`pip3 install to_ascii-3.5.8-py3-none-any.whl`.
